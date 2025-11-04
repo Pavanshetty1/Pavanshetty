@@ -1,13 +1,12 @@
 
 
 <h1 align="center">👋 Hi, I'm Pavan Shetty</h1>
-<h3 align="center">💻 Frontend Developer | ⚛️ React | 🧩 TypeScript </h3>
-
+<h3 align="center">💻 Frontend Developer </h3>
 ---
 
 ### 🧠 About Me  
 🌟 Passionate **Frontend Developer** who loves crafting clean and scalable interfaces.  
-🌱 Currently learning **React hooks**, **TypeScript best practices**, and **MUI customization**.  
+🌱 Currently learning  **TypeScript best practices**, and **MUI customization**.  
 🚀 Exploring API integration and performance optimization.  
 ⚡ Loves building intuitive, modern UI and exploring startup tech ideas.  
 
@@ -37,7 +36,7 @@
 • Developed an online platform allowing users to browse and purchase products or services.
 
 ⚡ **Hostel Management System** 
-I developed a dynamic mobile application using React js ,Mui Framework to empower hostel owners in
+• I developed a dynamic mobile application using React js ,Mui Framework to empower hostel owners in
 managing their properties efficiently.
 
 
@@ -45,11 +44,11 @@ managing their properties efficiently.
 
 ### 🤝 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/pavan-shetty-1681a223b" target="_blank"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn"/></a>
   &nbsp;
-  <a href="mailto:YOUR@EMAIL.COM"><img width="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" title="Gmail"/></a>
+  <a href="pavanshetty738@gmail.com"><img width="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" title="Gmail"/></a>
   &nbsp;
-  <a href="https://YOUR-PORTFOLIO-LINK" target="_blank"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Portfolio"/></a>
+  <a href="https://YOUR-PORTFOLIO-LINK" target="_blank"><img width="30" src="www.linkedin.com/in/pavan-shetty-1681a223b" title="Portfolio"/></a>
 </p>
 
 ---

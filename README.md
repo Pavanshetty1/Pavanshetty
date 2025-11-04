@@ -48,7 +48,7 @@ managing their properties efficiently.
   &nbsp;
   <a href="pavanshetty738@gmail.com"><img width="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" title="Gmail"/></a>
   &nbsp;
-  <a href="https://YOUR-PORTFOLIO-LINK" target="_blank"><img width="30" src="www.linkedin.com/in/pavan-shetty-1681a223b" title="Portfolio"/></a>
+  <a href="https://YOUR-PORTFOLIO-LINK" target="_blank"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Portfolio"/></a>
 </p>
 
 ---

@@ -38,6 +38,7 @@
 ⚡ **Hostel Management System** 
 • I developed a dynamic mobile application using React js ,Mui Framework to empower hostel owners in
 managing their properties efficiently.
+
 ⚡ **Cloud Device Management** 
 • I worked on a project called Cloud-Based Device Management.
 • This is an IoT-based project, where I utilized React JS as the frontend, Node JS as the backend, and MYSQL

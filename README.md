@@ -4,13 +4,13 @@
 <h3 align="center">💻 Frontend Developer | Manual Tester | Tech Explorer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="www.linkedin.com/in/pavan-shetty-1681a223b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:YOUR@EMAIL.COM">
+  <a href="pavanshetty738@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>

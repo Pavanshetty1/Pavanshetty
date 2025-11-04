@@ -38,7 +38,10 @@
 ⚡ **Hostel Management System** 
 • I developed a dynamic mobile application using React js ,Mui Framework to empower hostel owners in
 managing their properties efficiently.
-
+⚡ **Cloud Device Management** 
+• I worked on a project called Cloud-Based Device Management.
+• This is an IoT-based project, where I utilized React JS as the frontend, Node JS as the backend, and MYSQL
+database to store data.
 
 ---
 
@@ -53,8 +56,5 @@ managing their properties efficiently.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-</p>
 
 <p align="center">✨ Built with ❤️ by Pavan Shetty</p>

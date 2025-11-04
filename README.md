@@ -2,7 +2,7 @@
 ---
 <h1 align="center">👋 Hi, I'm Pavan Shetty</h1>
 <h3 align="center">💻 Frontend Developer </h3>
----
+
 
 ### 🧠 About Me  
 🌟 Passionate **Frontend Developer** who loves crafting clean and scalable interfaces.  
